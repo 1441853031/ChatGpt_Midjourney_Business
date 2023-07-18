@@ -4,7 +4,8 @@
 
 
 一键免费部署你的私人 ChatGPT+Midjourney 商业版网页应用
-- （基于[ChatGPT-Next-Web](https://github.com/Licoy/ChatGPT-Midjourney.git),[ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney.git)开发）
+
+（基于[ChatGPT-Next-Web](https://github.com/Licoy/ChatGPT-Midjourney.git),[ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney.git)开发）
 
 [//]: # ([QQ交流群]&#40;https://github.com/Licoy/ChatGPT-Midjourney/issues/30&#41; | [赞助项目]&#40;https://licoy.cn/open-sponsor.html&#41; | [PRO版本]&#40;https://github.com/Licoy/ChatGPT-Midjourney-Pro&#41;)
 
