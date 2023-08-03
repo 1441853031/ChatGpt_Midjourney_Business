@@ -17,7 +17,7 @@
 
 ![主界面](./docs/images/cover.png)
 ## 收益效果
-![efd18bda-880e-4d3c-95b9-edef29467b98](https://github.com/1441853031/ChatGpt_Midjourney_Business/assets/63350299/076c5efe-ccf2-4fed-8f39-4bf28873257c)
+![收益效果](https://github.com/1441853031/ChatGpt_Midjourney_Business/assets/63350299/076c5efe-ccf2-4fed-8f39-4bf28873257c)
 
 </div>
 
