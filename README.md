@@ -44,9 +44,10 @@ MIDJOURNEY_PROXY_URL=http://yourip:port
 ### MIDJOURNEY_PROXY_API_SECRET
 （可选）`midjourney-proxy`的API请求密钥，防止他人恶意调用，可在环境变量中配置。
 
-### CODE
-（可选）设置页面中的授权码，防止被其他人轻易使用消耗余额
-特别注意：卡密格式（带过期时间，数目无限）+V:awm8u8获取
+### 授权码
+授权码生成方式 + 微信 : awm8u8获取
+![img.png](img.png)
+
 ### 嵌入到自己的发卡
 修改代码位置
 1./app/locales/cn.ts
