@@ -122,5 +122,19 @@ npm run start // #或者开发模式启动： npm run dev
 - [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney.git)
 - [midjourney-proxy](https://github.com/novicezk/midjourney-proxy)
 
-## 开源协议
-[Anti 996 LICENSE](./LICENSE)
+## Plus版本
+演示地址http://gpt.414uj.cn/chat
+![image](https://github.com/1441853031/ChatGpt_Midjourney_Business/assets/63350299/b4a46649-6b85-4089-99ad-48facf184ae2)
+![image](https://github.com/1441853031/ChatGpt_Midjourney_Business/assets/63350299/fe486c61-91ab-497b-875d-421d1f53411b)
+
+![image](https://github.com/1441853031/ChatGpt_Midjourney_Business/assets/63350299/6d4f9dde-d9d5-40c2-ab92-70f9ebe6e83c)
+![image](https://github.com/1441853031/ChatGpt_Midjourney_Business/assets/63350299/5a827969-5d78-4194-9707-2e4a21948c2c)
+![image](https://github.com/1441853031/ChatGpt_Midjourney_Business/assets/63350299/0308bb93-868f-4e80-81aa-e2e72505b269)
+![image](https://github.com/1441853031/ChatGpt_Midjourney_Business/assets/63350299/8d0f9a69-b8b1-4571-830c-6f9e90b5edd2)
+![image](https://github.com/1441853031/ChatGpt_Midjourney_Business/assets/63350299/47752892-12c7-437a-ba48-f616243e5587)
+![image](https://github.com/1441853031/ChatGpt_Midjourney_Business/assets/63350299/ba2140ae-be1c-4fe0-80ba-c1f5709613b6)
+
+
+
+
+
