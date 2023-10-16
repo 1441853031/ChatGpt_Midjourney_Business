@@ -4,7 +4,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "前往[登录](/#/auth)输入授权码\n 购买地址https://faka.gptsb.cn/",
+      "",
   },
   Auth: {
     Title: "需要授权码",
