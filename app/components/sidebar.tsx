@@ -142,7 +142,7 @@ export function SideBar(props: { className?: string }) {
           icon={<AlipayIcon />}
           text={shouldNarrow ? undefined : "获取授权码"}
           className={styles["sidebar-bar-button"]}
-          onClick={() => (window.location.href = "https://faka.gptsb.cn/")}
+          onClick={() => (window.location.href = "")}
           shadow
         />
       </div>
